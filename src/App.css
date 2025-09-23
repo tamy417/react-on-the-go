@@ -39,3 +39,10 @@
 .read-the-docs {
   color: #888;
 }
+.card-style {
+  border: 10px solid cyan;
+  border-radius: 90px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
