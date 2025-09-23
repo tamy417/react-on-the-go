@@ -45,4 +45,10 @@
   padding: 20px;
   margin-bottom: 20px;
   text-align: center;
+  box-shadow: #888;
+}
+.country-visited {
+  background-color: antiquewhite;
+  color: black;
+  box-shadow: #888;
 }
