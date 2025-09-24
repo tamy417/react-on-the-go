@@ -52,3 +52,9 @@
   color: black;
   box-shadow: #888;
 }
+.visited-flags img {
+  width: 100px;
+  margin-right: 20px;
+  height: 60px;
+  margin-bottom: 20px;
+}
